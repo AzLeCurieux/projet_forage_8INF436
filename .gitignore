@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+.venv
+
+# Logs
+*.log
+texput.log
+
+# LaTeX build artifacts
+*.aux
+*.toc
+*.out
+
+# Notebook HTML exports
+notebooks/*.html
+html/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
